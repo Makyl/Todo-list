@@ -1,0 +1,1 @@
+This is just a basic todo list made at the starting point of learning javascript. This was tried after watching a video of Rodrigo Silveira livecoding. I will be adding functionalities as i learn.
